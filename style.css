@@ -9,5 +9,12 @@
 h1 {
     color: #fff;
     text-align: center;
-    margin-top: 20px;
+    padding-top: 50px;
+}
+
+p {
+    max-width: 800px;
+    margin: 20px auto;
+    color: #fff;
+    text-align: center;
 }
